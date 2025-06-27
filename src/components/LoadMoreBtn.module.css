@@ -1,0 +1,14 @@
+.wrapper {
+  text-align: center;
+  margin: 20px;
+}
+
+.button {
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
