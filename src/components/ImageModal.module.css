@@ -1,4 +1,4 @@
-/* Dış tıklamanın algılanabilmesi için tam ekran kaplama gerekli */
+
 .overlay {
   position: fixed;
   top: 0;
@@ -16,7 +16,7 @@
   z-index: 1000;
 }
 
-/* Modal kutunun kendisi */
+
 .modal {
   width: 800px;
   height: 510px;
